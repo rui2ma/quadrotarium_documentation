@@ -1,0 +1,4 @@
+.content h2 { font-size: 1.35rem; }  /* ===== */
+.content h3 { font-size: 1.15rem; }  /* ----- */
+.content h4 { font-size: 1.00rem; }  /* ^^^^^ */
+.content h5 { font-size: 0.90rem; }  /* """"" */

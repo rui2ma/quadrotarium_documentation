@@ -1,22 +1,28 @@
-Welcome to Lumache's documentation!
-===================================
+.. qps documentation master file, created by
+   sphinx-quickstart on Thu Feb 19 22:35:59 2026.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Welcom to Quadrotarium
+===============================
+**Quadrotarium** is a software suite that allows you to simulate and run experiments on real quadcoptors!
 
 .. note::
 
    This project is under active development.
 
-Contents
---------
-
 .. toctree::
 
-   usage
-   api
+   overview
+   
+   getting_started_quadrotarium
+
+   concepts
+
+   crazyswarm
+
+   qps
+
+   qpb
+
+   hardware
